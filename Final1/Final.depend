@@ -1,0 +1,435 @@
+# depslib dependency file v1.0
+1482935212 source:c:\users\omar\desktop\projects\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+
+1482927952 c:\users\omar\desktop\projects\final\gvariables.h
+
+1482933069 c:\users\omar\desktop\projects\final\save&load.h
+
+1482931377 c:\users\omar\desktop\projects\final\newgame.h
+
+1482933012 c:\users\omar\desktop\projects\final\read&write.h
+
+1482935175 c:\users\omar\desktop\projects\final\welcome.h
+
+1482933347 c:\users\omar\desktop\projects\final\actions.h
+
+1482933012 c:\users\omar\desktop\projects\final\settinggameup.h
+
+1482935214 source:f:\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+
+1482927954 f:\final\gvariables.h
+
+1482933070 f:\final\save&load.h
+
+1482931378 f:\final\newgame.h
+
+1482933014 f:\final\read&write.h
+
+1482935176 f:\final\welcome.h
+
+1482933348 f:\final\actions.h
+
+1482933014 f:\final\settinggameup.h
+
+1482967641 source:c:\users\fouad\desktop\new folder\final\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Actions.h"
+
+1482968347 c:\users\fouad\desktop\new folder\final\gvariables.h
+
+1482967607 c:\users\fouad\desktop\new folder\final\actions.h
+	"GVariables.h"
+
+1482968272 source:c:\users\fouad\desktop\new folder\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+	"NewGame.h"
+
+1482969335 c:\users\fouad\desktop\new folder\final\save&load.h
+	"GVariables.h"
+
+1482968231 c:\users\fouad\desktop\new folder\final\newgame.h
+	"GVariables.h"
+
+1482968798 c:\users\fouad\desktop\new folder\final\read&write.h
+	"GVariables.h"
+
+1482969089 c:\users\fouad\desktop\new folder\final\welcome.h
+
+1482967915 c:\users\fouad\desktop\new folder\final\settinggameup.h
+
+1482967915 source:c:\users\fouad\desktop\new folder\final\settinggameup.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"SettingGameUp.h"
+
+1482968347 source:c:\users\fouad\desktop\new folder\final\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"NewGame.h"
+
+1482969089 source:c:\users\fouad\desktop\new folder\final\read&write.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Read&Write.h"
+
+1482969089 source:c:\users\fouad\desktop\new folder\final\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Welcome.h"
+
+1482969196 source:c:\users\fouad\desktop\new folder\final\save&load.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+
+1482970630 source:c:\users\fouad\desktop\new folder\final1\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Actions.h"
+
+1482968347 c:\users\fouad\desktop\new folder\final1\gvariables.h
+
+1482967607 c:\users\fouad\desktop\new folder\final1\actions.h
+	"GVariables.h"
+
+1482970512 source:c:\users\fouad\desktop\new folder\final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+	"NewGame.h"
+
+1482969335 c:\users\fouad\desktop\new folder\final1\save&load.h
+	"GVariables.h"
+
+1482968231 c:\users\fouad\desktop\new folder\final1\newgame.h
+	"GVariables.h"
+
+1482968798 c:\users\fouad\desktop\new folder\final1\read&write.h
+	"GVariables.h"
+
+1482969089 c:\users\fouad\desktop\new folder\final1\welcome.h
+
+1482967915 c:\users\fouad\desktop\new folder\final1\settinggameup.h
+
+1482969089 source:c:\users\fouad\desktop\new folder\final1\read&write.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Read&Write.h"
+
+1482969196 source:c:\users\fouad\desktop\new folder\final1\save&load.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+
+1482967915 source:c:\users\fouad\desktop\new folder\final1\settinggameup.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"SettingGameUp.h"
+
+1482969089 source:c:\users\fouad\desktop\new folder\final1\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Welcome.h"
+
+1482970302 source:c:\users\fouad\desktop\new folder\final1\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"NewGame.h"
+
+1482970769 source:d:\final1\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Actions.h"
+
+1482968347 d:\final1\gvariables.h
+
+1482967607 d:\final1\actions.h
+	"GVariables.h"
+
+1482970512 source:d:\final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+	"NewGame.h"
+
+1482969335 d:\final1\save&load.h
+	"GVariables.h"
+
+1482968231 d:\final1\newgame.h
+	"GVariables.h"
+
+1482968798 d:\final1\read&write.h
+	"GVariables.h"
+
+1482969089 d:\final1\welcome.h
+
+1482967915 d:\final1\settinggameup.h
+
+1482970302 source:d:\final1\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"NewGame.h"
+
+1482969089 source:d:\final1\read&write.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Read&Write.h"
+
+1482969196 source:d:\final1\save&load.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+
+1482967915 source:d:\final1\settinggameup.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"SettingGameUp.h"
+
+1482969089 source:d:\final1\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Welcome.h"
+
+1482970769 source:c:\users\omar\desktop\5alasna\final1\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Actions.h"
+
+1482968347 c:\users\omar\desktop\5alasna\final1\gvariables.h
+
+1482967607 c:\users\omar\desktop\5alasna\final1\actions.h
+	"GVariables.h"
+
+1482970512 source:c:\users\omar\desktop\5alasna\final1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+	"NewGame.h"
+	"Read&Write.h"
+	"Welcome.h"
+	"Actions.h"
+	"SettingGameUp.h"
+	"NewGame.h"
+
+1482969335 c:\users\omar\desktop\5alasna\final1\save&load.h
+	"GVariables.h"
+
+1482968231 c:\users\omar\desktop\5alasna\final1\newgame.h
+	"GVariables.h"
+
+1482968798 c:\users\omar\desktop\5alasna\final1\read&write.h
+	"GVariables.h"
+
+1482969089 c:\users\omar\desktop\5alasna\final1\welcome.h
+
+1482967915 c:\users\omar\desktop\5alasna\final1\settinggameup.h
+
+1482973883 source:c:\users\omar\desktop\5alasna\final1\newgame.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"NewGame.h"
+
+1482969089 source:c:\users\omar\desktop\5alasna\final1\read&write.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Read&Write.h"
+
+1482969196 source:c:\users\omar\desktop\5alasna\final1\save&load.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Save&Load.h"
+
+1482967915 source:c:\users\omar\desktop\5alasna\final1\settinggameup.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"SettingGameUp.h"
+
+1482969089 source:c:\users\omar\desktop\5alasna\final1\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	"GVariables.h"
+	<windows.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Welcome.h"
+
